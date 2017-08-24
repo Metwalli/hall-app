@@ -31,8 +31,11 @@ import {
           MdSortModule,
           MdPaginatorModule        
       } from '@angular/material';
+
 import { Hall } from './models/hall';
 import { Reservation} from './models/reservation';
+export { Hall } from './models/hall';
+export { Reservation} from './models/reservation';
 
 @NgModule({
   imports: [

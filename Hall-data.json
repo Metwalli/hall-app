@@ -1,28 +1,6 @@
 {
-    "hall":{
-        "hall-1":{
-            "name":"1",
-            "address":{
-                "city":""
-            },
-            "location":"",
-            "contacts":{
-                "name":"",
-                "mobiles":[""],
-                "emails":[""]
-            },
-            "capecity":1000,
-            "photo-album":[],
-            "thumbnail":"",
-            "video":"",
-            "owner":"",
-            "reservation-instructions":"",
-            "additional-info":""
-        }
-    },
-    "reservation":[
-        {
-            "hall_key":"hall-1",
+   "1":{
+       "1": {
             "date":{
                 "from": "",
                 "to": ""
@@ -34,5 +12,5 @@
             "price": 100000,
             "installment": 1000
         }
-    ]
+   }
 }

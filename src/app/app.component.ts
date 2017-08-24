@@ -8,7 +8,7 @@ import { HallService } from './core/services/hall.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {  
-  constructor( private _hallService: HallService){
+  constructor(){
   }
   title = 'app';
 }
