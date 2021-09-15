@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T01:30:40.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0AleXqEJHC-EB6hu3R9J" version="15.2.7" type="github"><diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">7Vpbc+MmFP41nmkfuiOhqx+z3iR9aDo7dbt9JhaWaLBQEYrs/fUFCaybL4lHWlluNg8LR3CA7/sOOiDPrMVm+8hgEj3RAJEZMILtzPoyA8C0DV/8Jy270uLZyhAyHKhGlWGJvyNlNJQ1wwFKGw05pYTjpGlc0ThGK96wQcZo3my2pqQ5agJD1DEsV5Bo6yensv+NAx4pu+nOqwe/IhxGanAfuOWDZ7h6CRnNYjViTGNUPtlA7UatMo1gQPOaybqfWQtGKS9Lm+0CEQmsxkz34zs90Zn1OeIbIiqmKBaPH450Nt/SWayLoZjXhzvmz4KmtzZXyHEMEzgB/EUN8ApJpgZY0jXPhUNhXdCYM0o6c8gjzNEygStZz4WampPaQyQra+FDaUXMTdQxIQtKKCtcWWtH/slOYqQXVHviFv/2TzShEoAAphEKjkKg14QYR9uaSUHyiOgGcbYTTdRTb+6VXZTyLdsu63lNRY4iMqoJyFU2qKQb7l1XHIiCouGtlFgdwFEglK6qiDzT/L4yfC50W8BhtHjgkPE7GVnCUEha2R6wnE3R/B/E+U7xAzNOhYkyHtGQxpD8RmnSpdH0Rb2YhahIkLGIwVNEpDRjK3RktUDtFJCFiB9po9iQKJykkyECOX5t7hL9cmN/cNNs41wPN84HN8027vVw435w02zjXQ833gS4uYwInZqeZAL0zUTRVeAAd7UGCcUxT2uev0pDlYPMjWYO4jl2i9XSY8XxfmqX0Q46md8iSzndSExzzFeRKDxBzvB2BlzCZdqFX0Ux5AUdpemZtS1iHgfa1Uw/ld7FSQEsitNAlhDEVG2Dt4iVRbhJlBFyjuKsLKcJwaLK0p+PDdhPrlqI7v25ah/JqN8Ugu0cSEa9A8ko8IfIRu3uASERpzeWSaHciaDdfZeMTR1107BasB86A4AfdQZwOqj/jnhO2cttg+6AMUF3O6B/pbnE2XhC/Cbxdo0x8fY6eD8w9O+n4uIhk+/G28PbHxPvA1dR15fo9ZaE+5NJ/TyntQuaA6d+fifwvolXOpU73RKHgh9ReEQxYrAwTj0MnfmFr/b9nV+/Ydi91L3hMJyPEYYXczPvRMbdH2LhhvQo0gAayBApl3tzYeFaY76c9FG9Bv2Xv/6cPsrefK6/S+mTvXcAZ9s5sP2AQYD2/0/bj6m/RJ7af7T2rmAD0vOth4G899AnkWWWJASjdPqB0d5+/FHPIgBMICouDIHxLkG7t5ytA5GnD0TaRbkS1avi87wju+WoXG3H0buvZcHJa9kruMadwtfio8IdWm9+6zJ1/+59r946jqxh9NYZ54zezrQfQG9T+AI+nt6cMzJ5s97ajtrC7Utv7XHeqzd3aL1N4av+eHprvwYv1lvb0VB6a49zTm/uj9bbFH6pMJ7ezL701nY0lN7a45zTm92r3kS1+mlo2bz68a11/x8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-15T01:48:22.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="kA4rc8A__dwcj1-h_1hn" version="15.2.7" type="github">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3a17f1ce550125da-1" value="Smart Cities" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-2" value="Application &lt;br&gt;Layer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;align=left;imageWidth=24;" parent="1" vertex="1">
+          <mxGeometry x="710" y="420" width="400" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-8" value="Generic and Specific&lt;br&gt;Management Capabilities" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="580" y="420" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-1" value="Smart Transportation" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-2" value="Smart Buildings" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-3" value="Smart Energies" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-4" value="Smart Industories" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-5" value="Smart &lt;br&gt;Health" style="whiteSpace=wrap;html=1;shadow=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="344" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-7" value="&lt;div&gt;&lt;span&gt;Service and Application&lt;/span&gt;&lt;/div&gt;support Layer&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;align=left;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="710" y="510" width="400" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-8" value="Network &lt;br&gt;Layer&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;align=left;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="710" y="600" width="400" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-9" value="Device &lt;br&gt;Layer&lt;div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;align=left;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="710" y="690" width="400" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-10" value="Generic and Specific &lt;br&gt;Security Capabilities" style="whiteSpace=wrap;html=1;shadow=1;fontSize=16;fillColor=#f5f5f5;strokeColor=#666666;verticalAlign=middle;spacingTop=1;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="420" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-11" value="Generic Support" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="516" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-12" value="Specific Support" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="554" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-13" value="IoT Applications" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="446" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-14" value="Networking Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="605" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-15" value="Transport Capabilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="644" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-16" value="Devices" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="696" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SCo-NknTFO37rXQ9CxYT-17" value="Geteways" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="920" y="735" width="170" height="34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
